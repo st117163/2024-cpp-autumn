@@ -6,11 +6,9 @@
 #include <stdexcept>
 #include <iostream>
 #include <fstream>
-#include <sstream>
 #include <cmath>
 #include <iomanip>
 #include <algorithm>
-#include <cctype>
 
 struct Column {
     std::string name;
