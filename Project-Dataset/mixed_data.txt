@@ -1,0 +1,3 @@
+ID|Category|Rating|In Stock
+1|Books|4.5|Yes
+2|Electronics|3.8|No

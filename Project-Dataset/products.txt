@@ -1,0 +1,3 @@
+product_id	product_name	price	stock
+P1001	Laptop	999.99	15
+P1002	Phone	599.99	30
